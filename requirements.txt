@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+wordcloud
+networkx
+openpyxl
+scikit-learn
+jieba
+geopandas
+shapely
+pyproj
+pyogrio
+fiona==1.9.6
